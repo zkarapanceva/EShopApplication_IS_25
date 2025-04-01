@@ -14,5 +14,6 @@ namespace EShop.Service.Interface
         Product Update(Product product);
         Product DeleteById(Guid Id);
         Product Add(Product product);
+        void AddToCart(Guid productId, Guid userId);
     }
 }

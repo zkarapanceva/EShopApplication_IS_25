@@ -12,16 +12,49 @@ namespace EShop.Service.Implementation
     public class ProductService : IProductService
     {
         private readonly IRepository<Product> _productRepository;
+        private readonly IRepository<ProductInShoppingCart> _productInCartsRepository;
+        private readonly IShoppingCartService _shoppingCartService;
 
-        public ProductService(IRepository<Product> productRepository)
+        public ProductService(IRepository<Product> productRepository, IRepository<ProductInShoppingCart> productInCartsRepository, IShoppingCartService shoppingCartService)
         {
             _productRepository = productRepository;
+            _productInCartsRepository = productInCartsRepository;
+            _shoppingCartService = shoppingCartService;
         }
 
         public Product Add(Product product)
         {
             product.Id = Guid.NewGuid();
             return _productRepository.Insert(product);
+        }
+
+        public void AddToCart(Guid productId, Guid userId)
+        {
+            var shoppingCart = _shoppingCartService.GetByUserId(userId);
+            var product = _productRepository.Get(selector: x => x,
+                                                 predicate: x => x.Id == productId);
+
+            var existing = _productInCartsRepository.Get(selector: x => x,
+                    predicate: x => x.ProductId == productId && x.ShoppingCartId == shoppingCart.Id);
+
+            if(existing == null)
+            {
+                ProductInShoppingCart newProduct = new ProductInShoppingCart
+                {
+                    Id = Guid.NewGuid(),
+                    Product = product,
+                    ProductId = productId,
+                    ShoppingCart = shoppingCart,
+                    ShoppingCartId = shoppingCart.Id,
+                    Quantity = 1
+                };
+                _productInCartsRepository.Insert(newProduct);
+            }
+            else
+            {
+                existing.Quantity++;
+                _productInCartsRepository.Update(existing);
+            }
         }
 
         public Product DeleteById(Guid Id)

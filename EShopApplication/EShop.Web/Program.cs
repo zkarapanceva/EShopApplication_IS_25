@@ -19,6 +19,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddTransient<IProductService, ProductService>();
+builder.Services.AddTransient<IShoppingCartService, ShoppingCartService>();
 
 
 var app = builder.Build();

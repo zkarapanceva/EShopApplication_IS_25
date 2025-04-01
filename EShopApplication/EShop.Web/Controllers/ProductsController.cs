@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EShop.Domain.DomainModels;
 using EShop.Service.Interface;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EShop.Web.Controllers
 {
@@ -144,6 +146,15 @@ namespace EShop.Web.Controllers
         private bool ProductExists(Guid id)
         {
             return _productService.GetById(id) == null ? false : true;
+        }
+
+        //[HttpPost]
+        //[Authorize]
+        public IActionResult AddToCart(Guid id)
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            _productService.AddToCart(id, Guid.Parse(userId));
+            return RedirectToAction(nameof(Index));
         }
     }
 }

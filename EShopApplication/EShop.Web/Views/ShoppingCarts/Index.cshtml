@@ -1,0 +1,48 @@
+﻿@using EShop.Domain.DTO
+@model ShoppingCartDTO
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+<div class="container">
+
+    <div class="row" style="margin-top:20px;">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Products.Count; i++)
+                {
+                    var currentProduct = Model.Products[i];
+
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@currentProduct.Product.ProductName</td>
+                        <td>@currentProduct.Quantity</td>
+                        <td>@currentProduct.Product.Price</td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th scope="col">Total Price:</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col">@Model.TotalPrice ДЕН</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+</div>

@@ -313,3 +313,4 @@ C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\ES
 C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Web\bin\Debug\net8.0\EShop.Service.dll
 C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Web\bin\Debug\net8.0\EShop.Repository.pdb
 C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Web\bin\Debug\net8.0\EShop.Service.pdb
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Web\obj\Debug\net8.0\EShop.Web.MvcApplicationPartsAssemblyInfo.cs
