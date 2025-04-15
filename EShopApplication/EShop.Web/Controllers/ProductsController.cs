@@ -9,17 +9,22 @@ using EShop.Domain.DomainModels;
 using EShop.Service.Interface;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
+using EShop.Domain.DTO;
 
 namespace EShop.Web.Controllers
 {
     public class ProductsController : Controller
     {
         private readonly IProductService _productService;
+        private readonly IShoppingCartService _cartService;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductService productService, IShoppingCartService cartService)
         {
             _productService = productService;
+            _cartService = cartService;
         }
+
+
 
 
 
@@ -148,12 +153,18 @@ namespace EShop.Web.Controllers
             return _productService.GetById(id) == null ? false : true;
         }
 
-        //[HttpPost]
-        //[Authorize]
         public IActionResult AddToCart(Guid id)
         {
+            var productDto = _cartService.GetProductInfo(id);
+            return View(productDto);
+           
+        }
+
+        [HttpPost]
+        public IActionResult AddToCart(AddToCartDTO model)
+        {
             var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            _productService.AddToCart(id, Guid.Parse(userId));
+            _productService.AddToCart(model, Guid.Parse(userId));
             return RedirectToAction(nameof(Index));
         }
     }

@@ -27,5 +27,17 @@ namespace EShop.Web.Controllers
             var cart = _cartService.GetByUserIdIncudingProducts(Guid.Parse(userId));
             return View(cart);
         }
+        public IActionResult DeleteFromCart(Guid id)
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            _cartService.DeleteFromCart(id, userId);
+            return RedirectToAction("Index");
+        }
+        public IActionResult Order()
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            _cartService.OrderProducts(userId);
+            return RedirectToAction("Index");
+        }
     }
 }

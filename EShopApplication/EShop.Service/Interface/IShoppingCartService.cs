@@ -12,7 +12,8 @@ namespace EShop.Service.Interface
     {
         ShoppingCart GetByUserId(Guid id);
         ShoppingCartDTO GetByUserIdIncudingProducts(Guid id);
-
-
+        AddToCartDTO GetProductInfo(Guid id);
+        Boolean DeleteFromCart(Guid id, string userId);
+        Boolean OrderProducts(string userId);
     }
 }
