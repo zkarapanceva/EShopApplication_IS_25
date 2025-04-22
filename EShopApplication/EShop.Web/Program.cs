@@ -4,8 +4,11 @@ using EShop.Domain.Identity;
 using EShop.Repository;
 using EShop.Service.Interface;
 using EShop.Service.Implementation;
+using EShop.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("EmailSettings"));
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -20,6 +23,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddTransient<IProductService, ProductService>();
 builder.Services.AddTransient<IShoppingCartService, ShoppingCartService>();
+builder.Services.AddTransient<IEmailService, EmailService>();
 
 
 var app = builder.Build();

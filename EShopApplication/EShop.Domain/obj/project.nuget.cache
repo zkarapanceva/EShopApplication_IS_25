@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0SMehJk2XKg=",
+  "dgSpecHash": "gFCQZXIGRhA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
+  "projectFilePath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\divna\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.13\\microsoft.aspnetcore.cryptography.internal.8.0.13.nupkg.sha512",
     "C:\\Users\\divna\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.13\\microsoft.aspnetcore.cryptography.keyderivation.8.0.13.nupkg.sha512",

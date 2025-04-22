@@ -1,0 +1,781 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\domainmodels\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domainmodels\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.ProductInOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\domainmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domainmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\identity\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\domainmodels\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domainmodels\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\domainmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domainmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\products\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\products\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.ShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\eshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\eshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\domainmodels\\productinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domainmodels\\productinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\eshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\eshop.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.service\\eshop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\eshop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\eshop.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\eshop.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\domainmodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\domainmodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\migrations\\20250415145611_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20250415145611_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\migrations\\20250415143534_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20250415143534_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\divna\\downloads\\eshopapplication_is_25-main\\eshopapplication\\eshop.repository\\migrations\\20250422104141_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE4D99-1917-4745-8BED-766D858E54EA}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\migrations\\20250422104141_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\appsettings.json",
+              "RelativeToolTip": "EShop.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T18:54:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "EShop.Service\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:19:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Program.cs",
+              "RelativeToolTip": "EShop.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:36:44.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Implementation\\EmailService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\EmailService.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Implementation\\EmailService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\EmailService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:43:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\ShoppingCartService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAkwIgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:17:36.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EmailMessage.cs",
+              "RelativeToolTip": "EShop.Domain\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:38:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\MailSettings.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\MailSettings.cs",
+              "RelativeToolTip": "EShop.Domain\\MailSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:39:26.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EShop.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:07:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:43:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T14:46:29.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250422104141_email.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Migrations\\20250422104141_email.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20250422104141_email.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Migrations\\20250422104141_email.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20250422104141_email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:41:41.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAA3wKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:14:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Orders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.Orders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-15T15:10:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeToolTip": "EShop.Service\\Interface\\IShoppingCartService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:15:36.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DomainModels\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\ShoppingCart.cs",
+              "RelativeToolTip": "EShop.Domain\\DomainModels\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:21:40.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "RelativeToolTip": "EShop.Domain\\Identity\\EShopApplicationUser.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:23:03.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\Order.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DomainModels\\Order.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\Order.cs",
+              "RelativeToolTip": "EShop.Domain\\DomainModels\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:51:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250415145611_orders.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Migrations\\20250415145611_orders.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20250415145611_orders.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Migrations\\20250415145611_orders.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20250415145611_orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:56:11.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\ProductInOrder.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DomainModels\\ProductInOrder.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\ProductInOrder.cs",
+              "RelativeToolTip": "EShop.Domain\\DomainModels\\ProductInOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:52:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\Product.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DomainModels\\Product.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\Product.cs",
+              "RelativeToolTip": "EShop.Domain\\DomainModels\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:05:14.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:29:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T14:42:28.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Products\\AddToCart.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\AddToCart.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Products\\AddToCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:29:06.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:40:23.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddToCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DTO\\AddToCartDTO.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DTO\\AddToCartDTO.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DTO\\AddToCartDTO.cs",
+              "RelativeToolTip": "EShop.Domain\\DTO\\AddToCartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:17:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250415143534_init.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Migrations\\20250415143534_init.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Migrations\\20250415143534_init.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Migrations\\20250415143534_init.cs",
+              "RelativeToolTip": "EShop.Repository\\Migrations\\20250415143534_init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:35:34.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\Interface\\IProductService.cs",
+              "RelativeToolTip": "EShop.Service\\Interface\\IProductService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:40:11.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "RelativeToolTip": "EShop.Domain\\DTO\\ShoppingCartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:14:22.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T14:50:25.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.ShoppingCarts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.ShoppingCarts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.ShoppingCarts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T14:50:44.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EShop.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\EShop.Web.csproj",
+              "RelativeDocumentMoniker": "EShop.Web\\EShop.Web.csproj",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\EShop.Web.csproj",
+              "RelativeToolTip": "EShop.Web\\EShop.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T15:39:48.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductInShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\ProductInShoppingCart.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DomainModels\\ProductInShoppingCart.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\ProductInShoppingCart.cs",
+              "RelativeToolTip": "EShop.Domain\\DomainModels\\ProductInShoppingCart.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:22:13.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:04:50.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EShop.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+              "RelativeDocumentMoniker": "EShop.Service\\EShop.Service.csproj",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+              "RelativeToolTip": "EShop.Service\\EShop.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T15:07:06.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\IRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:13:25.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EShop.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
+              "RelativeDocumentMoniker": "EShop.Domain\\EShop.Domain.csproj",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj",
+              "RelativeToolTip": "EShop.Domain\\EShop.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T15:33:13.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\Repository.cs",
+              "RelativeToolTip": "EShop.Repository\\Repository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:13:42.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "EShop.Repository\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:33:03.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EShop.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\EShop.Repository.csproj",
+              "RelativeDocumentMoniker": "EShop.Repository\\EShop.Repository.csproj",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\EShop.Repository.csproj",
+              "RelativeToolTip": "EShop.Repository\\EShop.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T15:07:35.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\DomainModels\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\DomainModels\\BaseEntity.cs",
+              "RelativeToolTip": "EShop.Domain\\DomainModels\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:15:19.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "EShop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:31:55.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T16:18:21.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:36:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:32:31.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:32:02.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:30:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "EShop.Domain\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:29:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.ProductInOrders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.ProductInOrders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EShopDb/True/SqlTable/dbo.ProductInOrders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-15T15:10:27.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

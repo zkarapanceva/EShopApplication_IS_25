@@ -1,4 +1,5 @@
-﻿using EShop.Domain.DomainModels;
+﻿using EShop.Domain;
+using EShop.Domain.DomainModels;
 using EShop.Domain.DTO;
 using EShop.Repository;
 using EShop.Service.Interface;
@@ -19,14 +20,17 @@ namespace EShop.Service.Implementation
         private readonly IRepository<ProductInShoppingCart> _productsInCartsRepository;
         private readonly IRepository<Order> _orderRepository;
         private readonly IRepository<ProductInOrder> _productsInOrderRepository;
+        private readonly IEmailService _emailService;
 
-        public ShoppingCartService(IRepository<ShoppingCart> shoppingCartRepository, IRepository<Product> productRepository, IRepository<ProductInShoppingCart> productsInCartsRepository, IRepository<Order> orderRepository, IRepository<ProductInOrder> productsInOrderRepository)
+        public ShoppingCartService(IRepository<ShoppingCart> shoppingCartRepository, IRepository<Product> productRepository, IRepository<ProductInShoppingCart> productsInCartsRepository, IRepository<Order> orderRepository, IRepository<ProductInOrder> productsInOrderRepository, IEmailService emailService)
         {
             _shoppingCartRepository = shoppingCartRepository;
             _productRepository = productRepository;
             _productsInCartsRepository = productsInCartsRepository;
             _orderRepository = orderRepository;
             _productsInOrderRepository = productsInOrderRepository;
+            _emailService = emailService;
+
         }
 
         public bool DeleteFromCart(Guid id, string userId)
@@ -90,7 +94,8 @@ namespace EShop.Service.Implementation
         {
             var shoppingCart = _shoppingCartRepository.Get(selector: x => x,
                     predicate: x => x.OwnerId == userId,
-                    include: x => x.Include(y => y.ProductInShoppingCarts).ThenInclude(z => z.Product));
+                    include: x => x.Include(y => y.ProductInShoppingCarts).ThenInclude(z => z.Product)
+                    .Include(y => y.Owner));
 
             var newOrder = new Order
             {
@@ -99,6 +104,12 @@ namespace EShop.Service.Implementation
                 OwnerId = userId
             };
             _orderRepository.Insert(newOrder);
+
+            EmailMessage message = new EmailMessage();
+            message.Subject = "Successfull order";
+            message.MailTo = shoppingCart.Owner.Email;
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Your order is completed. The order conatins: ");
 
             var productsInOrder = shoppingCart.ProductInShoppingCarts.Select(z => new ProductInOrder
             {
@@ -115,10 +126,15 @@ namespace EShop.Service.Implementation
             {
                 total += (product.Quantity * product.Product.Price);
                 _productsInOrderRepository.Insert(product);
+                sb.AppendLine(product.Product.ProductName + " with quantity of: " + product.Quantity + " and price of: $" + product.Product.Price);
             }
+
+            sb.AppendLine("Total price for your order: " + total.ToString());
+            message.Content = sb.ToString();
 
             shoppingCart.ProductInShoppingCarts.Clear();
             _shoppingCartRepository.Update(shoppingCart);
+            _emailService.SendEmailAsync(message);
             return true;
 
 

@@ -14,3 +14,33 @@ C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\ES
 C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
 C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
 C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Re.5AE75352.Up2Date
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+C:\Users\student\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Re.5AE75352.Up2Date
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+C:\Users\divna\Downloads\EShopApplication_IS_25-main\EShopApplication\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
