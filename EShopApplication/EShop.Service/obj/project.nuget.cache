@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZDPfbNK2/x4=",
+  "dgSpecHash": "DZIfb1lVAz0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+  "projectFilePath": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\divna\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\divna\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -3528,11 +3528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+      "projectUniqueName": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
       "projectName": "EShop.Service",
-      "projectPath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+      "projectPath": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
       "packagesPath": "C:\\Users\\divna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Service\\obj\\",
+      "outputPath": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3553,11 +3553,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj"
+            "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Domain\\EShop.Domain.csproj"
             },
-            "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\EShop.Repository.csproj": {
-              "projectPath": "C:\\Users\\divna\\Downloads\\EShopApplication_IS_25-main\\EShopApplication\\EShop.Repository\\EShop.Repository.csproj"
+            "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Repository\\EShop.Repository.csproj": {
+              "projectPath": "C:\\Users\\divna\\Desktop\\Интегрирани системи\\EShopApplication\\EShopApplication\\EShop.Repository\\EShop.Repository.csproj"
             }
           }
         }
