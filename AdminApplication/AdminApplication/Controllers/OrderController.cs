@@ -5,13 +5,13 @@ namespace AdminApplication.Controllers
 {
     public class OrderController : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             HttpClient client = new HttpClient();
 
             string URL = "http://localhost:5041/api/admin/getallorders";
-            HttpResponseMessage message = client.GetAsync(URL).Result;
-            var data = message.Content.ReadFromJsonAsync<List<Order>>().Result;
+            HttpResponseMessage message = await client.GetAsync(URL);
+            var data = await message.Content.ReadFromJsonAsync<List<Order>>();
             return View(data);
         }
         public async Task<IActionResult> Details(Guid id)
@@ -19,8 +19,8 @@ namespace AdminApplication.Controllers
             HttpClient client = new HttpClient();
 
             string URL = $"http://localhost:5041/api/admin/GetOrderDetails?id={id}";
-            HttpResponseMessage message = client.PostAsync(URL, null).Result;
-            var data =  message.Content.ReadFromJsonAsync<Order>().Result;
+            HttpResponseMessage message = await client.PostAsync(URL, null);
+            var data = await message.Content.ReadFromJsonAsync<Order>();
             return View(data);
         }
     }

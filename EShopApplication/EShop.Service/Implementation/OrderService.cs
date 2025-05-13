@@ -32,7 +32,7 @@ namespace EShop.Service.Implementation
             return _orderRepository.Get(selector: x => x,
                 predicate: x => x.Id == Id,
                 include: x => x.Include(y => y.ProductsInOrder)
-                .ThenInclude(z => z.Product));
+                .ThenInclude(z => z.Product).Include(y => y.Owner));
         }
     }
 }
