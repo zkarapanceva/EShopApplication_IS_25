@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="EShopWeb" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\divna\\Desktop\\Интегрирани\ системи\\EShopApplication\\EShopApplication\\EShop\.Web\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="EShop.Repository.ApplicationDbContext" description="" value="Server=tcp:eshopwebdbserverfinki.database.windows.net,1433;Initial Catalog=EShop.Web_db;Persist Security Info=False;User ID=zorica;Password=Test123!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\divna\\Desktop\\Интегрирани\ системи\\EShopApplication\\EShopApplication\\EShop\.Web\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\EShop\.Repository\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

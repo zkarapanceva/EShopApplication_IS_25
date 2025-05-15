@@ -1,6 +1,7 @@
 ﻿@using EShop.Domain.DTO
+@using Microsoft.Extensions.Options
 @model ShoppingCartDTO
-
+@inject IOptions<StripeSettings> Stripe
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -10,7 +11,22 @@
 
 
 <div class="container">
-    <a class="btn btn-success" asp-action="Order">Order</a>
+    
+    <form asp-controller="ShoppingCarts" asp-action="PayOrder" method="post">
+        <article>
+            <script src="https://checkout.stripe.com/checkout.js"
+                    class="stripe-button"
+                    data-key="@Stripe.Value.PublishableKey"
+                    data-locale="auto"
+                    data-description="EShop Payment"
+                    data-amount="@(Model.TotalPrice * 100)"
+                    data-label="Pay $@Model.TotalPrice" >
+            </script>
+        </article>
+    </form>
+
+
+
     <div class="row" style="margin-top:20px;">
         <table class="table">
             <thead>

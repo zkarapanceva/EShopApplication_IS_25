@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.web\\eshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\eshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.service\\eshop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\eshop.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.domain\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A83C16-4781-4FBF-81D3-5982FF8C6E7A}|EShop.Domain\\EShop.Domain.csproj|solutionrelative:eshop.domain\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.web\\views\\shoppingcarts\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE1A6B7-D2F5-4FE0-9193-881A13F839EB}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\views\\shoppingcarts\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\interface\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|c:\\users\\divna\\desktop\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\eshopapplication\\eshopapplication\\eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30BF7838-9EBA-4873-AB79-BD2AF0A76807}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +55,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EShop.Web",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\EShop.Web.csproj",
+              "RelativeDocumentMoniker": "EShop.Web\\EShop.Web.csproj",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\EShop.Web.csproj",
+              "RelativeToolTip": "EShop.Web\\EShop.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T13:03:38.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EShop.Service",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+              "RelativeDocumentMoniker": "EShop.Service\\EShop.Service.csproj",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Service\\EShop.Service.csproj",
+              "RelativeToolTip": "EShop.Service\\EShop.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T13:03:37.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:28:43.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuccessPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "RelativeDocumentMoniker": "EShop.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "RelativeToolTip": "EShop.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:27:55.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Interface\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Service\\Interface\\IShoppingCartService.cs",
+              "RelativeToolTip": "EShop.Service\\Interface\\IShoppingCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:20:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:17:30.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\Program.cs",
+              "RelativeToolTip": "EShop.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:16:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Domain\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "EShop.Domain\\StripeSettings.cs",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Domain\\StripeSettings.cs",
+              "RelativeToolTip": "EShop.Domain\\StripeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:16:17.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EShop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Web\\appsettings.json",
+              "RelativeToolTip": "EShop.Web\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T12:14:47.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Service\\Implementation\\OrderService.cs",
               "RelativeDocumentMoniker": "EShop.Service\\Implementation\\OrderService.cs",
               "ToolTip": "C:\\Users\\divna\\Desktop\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438 \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\EShopApplication\\EShopApplication\\EShop.Service\\Implementation\\OrderService.cs",
               "RelativeToolTip": "EShop.Service\\Implementation\\OrderService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T20:23:03.505Z",
               "EditorCaption": ""

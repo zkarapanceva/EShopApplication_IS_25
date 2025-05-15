@@ -1,0 +1,13 @@
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\bin\Release\net8.0\EShop.Domain.deps.json
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\bin\Release\net8.0\EShop.Domain.dll
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\bin\Release\net8.0\EShop.Domain.pdb
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.sourcelink.json
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.dll
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\refint\EShop.Domain.dll
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\EShop.Domain.pdb
+C:\Users\divna\Desktop\Интегрирани системи\EShopApplication\EShopApplication\EShop.Domain\obj\Release\net8.0\ref\EShop.Domain.dll
